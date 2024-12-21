@@ -19,7 +19,7 @@ Flask application leveraging lambda functions, queues, and other cloud services 
 
 
 
-### Check out some of my past desing projects: 
+### Check out some of my past design projects: 
 
 📱 [News Application Prototype](https://www.figma.com/proto/kzMzltytnYgA4DAG8wGPT8/Final-Prototype-v2?node-id=35-1355&t=TuyifPlSItecgtYD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=35%3A1355) (December 2023)
 Designed a news application based on user research which aggregates new stories from different news sources and analyzes articles using artificial intelligence; created high-fidelity prototypes in Figma. 
