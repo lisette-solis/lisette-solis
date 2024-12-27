@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lisette Solís (She/Her) and I am a technologist who recently graduated from the [Computational Analysis and Public Policy program](https://capp.uchicago.edu/) at The university of Chicago. Prior to graduate school I worked on labor rights as a product manager for [Fair Trade USA](https://www.fairtradecertified.org/). I am passionate about leveraging technology for social good and am especially interested in transportation, urban policy, and environmental sustainability. 
+My name is Lisette Solís (She/Her) and I am a technologist who recently graduated from the [Computational Analysis and Public Policy program](https://capp.uchicago.edu/) at The university of Chicago. Prior to graduate school I worked on labor rights and supply chain compliance as a product manager for [Fair Trade USA](https://www.fairtradecertified.org/). I am passionate about leveraging technology for social good and am especially interested in transportation, urban policy, environmental sustainability, and news. 
 Languages: Python, SQL, JavaScript, R
 
 ### Check out some of my past coding projects: 
