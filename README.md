@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lisette Solís (She/Her) and I am a technologist who recently left the federal government and graduated from the [Computational Analysis and Public Policy program](https://capp.uchicago.edu/) at The university of Chicago. Most recently I worked on the responsible AI team at the Department of Defense. Prior to graduate school I worked on labor rights and supply chain compliance as a product manager for [Fair Trade USA](https://www.fairtradecertified.org/). I am passionate about leveraging technology for social good and am especially interested in responsible AI, transportation, urban policy, environmental sustainability, and news. 
+My name is Lisette Solís (She/Her) and I am a technologist who works for federal government and recently graduated from the [Computational Analysis and Public Policy program](https://capp.uchicago.edu/) at The university of Chicago. I am passionate about leveraging technology for social good and am especially interested in responsible AI, transportation, urban policy, environmental sustainability, and news. 
 Languages: Python, SQL, JavaScript, R
 
 ### Check out some of my past coding projects: 
