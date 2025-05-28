@@ -7,7 +7,7 @@ Languages: Python, SQL, JavaScript, R
 ### Check out some of my past coding projects: 
 
 🚍 [Transit Planning Tool](https://github.com/uchicago-capp-30320/RouteRangers) (May 2024)
-E2E Django application to aid in transit planning process; application includes survey for transit riders to provide direct feedback to planners and dashboard that provides planners with insights on survey feedback and transit trends. See final product [here](http://www.plan-our-transit.com/)!
+E2E Django application to aid in transit planning process; application includes survey for transit riders to provide direct feedback to planners and dashboard that provides planners with insights on survey feedback and transit trends.
 
 🩻 [Predicting Pneumonia from X-Ray Images](https://github.com/JPMartinezClaeys/30254-pneumoniacs) (May 2023)
 Convolutional neural network model in PyTorch to predict whether a person has pneumonia based on chest X-ray image.
