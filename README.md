@@ -26,4 +26,4 @@ Flask application leveraging lambda functions, queues, and other cloud services 
 Designed a news application based on user research which aggregates new stories from different news sources and analyzes articles using artificial intelligence; created high-fidelity prototypes in Figma. 
 
 🚍 [Transit Planning Tool](https://www.figma.com/proto/bXKQi5P1RpGKSb1Ao6w0V5/Community-Transit-Tool?node-id=90-70&starting-point-node-id=90%3A70&scaling=scale-down&t=cVw0D8wTu8toKxiW-1) (May 2024)
-Prototypes for E2E Django application mentioned above. See final product [here](http://www.plan-our-transit.com/)!
+Prototypes for E2E Django application mentioned above.
