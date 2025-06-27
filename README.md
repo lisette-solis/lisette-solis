@@ -5,6 +5,8 @@ My name is Lisette Solís (She/Her). I am a technologist who works on AI policy 
 Languages: Python, SQL, JavaScript, R
 
 ### Check out some of my past coding projects: 
+🌊 [AI Swim Coach](https://github.com/lisette-solis/swim) (June 2025)
+Flask application using Gemini API to generate swim workout based on user’s inputs.  
 
 🚍 [Transit Planning Tool](https://github.com/uchicago-capp-30320/RouteRangers) (May 2024)
 E2E Django application to aid in transit planning process; application includes survey for transit riders to provide direct feedback to planners and dashboard that provides planners with insights on survey feedback and transit trends.
